@@ -1,2 +1,2 @@
 # finxxit
-website for personal financial planning
+application for personal financial planning
