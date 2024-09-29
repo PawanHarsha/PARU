@@ -1,2 +1,2 @@
-# stox10x
-this project is created to automate the equity trading
+# finxxit
+website for personal financial planning
