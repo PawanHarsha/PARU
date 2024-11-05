@@ -1,2 +1,2 @@
 # #killit
-PRECISE ANSWERING RESPONSE UNIT(PARU), is not just another local AI agent you can customize to do your routine tasks. It's more than that, it is a lightweight virtual engine that leverages multiple latest technologies to create one's cloud-based solutions wrapped with an AI agent.
+PRECISE ANSWERING RESPONSE UNIT(PARU), is not just another local AI agent. It is a lightweight virtual engine that leverages multiple latest technologies to create self-hosted cloud-based solutions wrapped with an AI agent.
