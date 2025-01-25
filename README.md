@@ -1,2 +1,2 @@
 # #killit
-PRECISE ANSWERING RESPONSE UNIT(PARU), is just another local AI agent. 
+PARU(PRECISE ANSWERING RESPONSE UNIT), is just another local AI agent. 
